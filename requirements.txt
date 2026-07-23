@@ -1,0 +1,8 @@
+kafka-python
+websocket-client
+pyspark==3.5.0
+pymongo
+pandas
+streamlit
+plotly
+python-dotenv
